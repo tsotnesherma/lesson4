@@ -1,0 +1,224 @@
+
+@font-face {
+	font-family: banner;
+	src: url(../fonts/bpg-banner-caps-webfont.ttf);
+}
+@font-face {
+	font-family:geofont ;
+	src: url(../fonts/archyedt-bold-webfont.ttf);
+}
+@font-face {
+	font-family: sherif;
+	src: url(../fonts/PTSerif-Bold.ttf);
+}
+
+
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 30px;
+   
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+li{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 5.77px;
+}
+a{
+    text-decoration: none;
+}
+
+.div1{
+    width: 900px;
+    display: inline-block;
+    vertical-align: top;
+font-family: banner;
+
+}
+
+.mtavari1{
+    font-size: 22px;
+    color: #EE4036
+	
+    
+    
+}
+.news1 {
+    font-size: 22px;
+    color: #3D58A6;
+    
+}
+.contact1{
+    font-size: 22px;
+    color: #3D58A6;
+   
+}
+
+/* Icons */
+.fb{
+    top: 500px;
+    left: 30px;
+    width: 35px;
+    height: 30px;
+}
+.yt{
+    top: 500px;
+    left: 30px;
+    width: 35px;
+    height: 30px;
+}
+
+
+
+
+   /* This styles date icon and number */
+
+.container1{
+color: white;
+height: 55px;
+width: 55px;
+background-color: blue;
+text-align: center;
+line-height: 55px;
+font-size: 35px;
+margin: 25px;
+
+}
+.date1{
+    text-align: top;
+letter-spacing: 0px;
+color: #3D58A6;
+font-size: 22px;
+margin: 25px;
+position: relative;
+}
+.container2{
+    color: white;
+    height: 55px;
+    width: 55px;
+    background-color: blue;
+    text-align: center;
+    line-height: 55px;
+    font-size: 35px;
+    margin: 25px;
+    
+    }
+    .date2{
+        text-align: top;
+    letter-spacing: 0px;
+    color: #3D58A6;
+    font-size: 22px;
+    margin: 25px;
+    position: relative;
+    }
+    
+    .p1{ margin: 23px;
+   font-size: 20px; 
+   color: black}
+   img{
+       margin: 15px;
+	   
+   }
+
+   .container3{
+    color: white;
+    height: 55px;
+    width: 55px;
+    background-color: blue;
+    text-align: center;
+    line-height: 55px;
+    font-size: 35px;
+    margin: 25px;
+    
+    }
+    .date3{
+        text-align: top;
+    letter-spacing: 0px;
+    color: #3D58A6;
+    font-size: 22px;
+    margin: 25px;
+    position: relative;
+    }
+    
+   
+  p{
+      font-size: 16px
+  } 
+
+  /* This styles news page */
+.logo1{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 30px;
+    margin: 50px;
+
+}
+
+.mtavari2{
+    font-size: 22px;
+}
+.news2{font-size: 22px;
+    color: #EE4036
+}
+.contact2{
+    font-size: 22px;
+    color:#3D58A6 
+}
+.img1{
+    margin: 50px;
+}
+
+.container {
+	width: 1170px;
+	margin: auto;
+}
+
+h3 {
+	font-family: roboto 400;
+	font-size: 24px;
+	color: #000000;
+	margin-bottom: 30px;
+}
+
+h4 {
+	color: #3D58A6;
+	font-family: roboto 400;
+	font-size: 22px;
+	margin: 13px 270px 13px 20px;
+}
+
+.leftcard, .rightcard {
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	display: inline-block;
+}
+
+.leftcard {
+	margin-right: 25px;
+}
+
+.yellowcard {
+	width: 100px;
+	height: 120px;
+	background-color: yellow;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 60px 0 40px;
+
+}
+
+.p2 {
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-family: sherif;
+	font-size: 20px;
+}   
+
+
+ 
